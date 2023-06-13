@@ -45,9 +45,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link]([https://google.com](https://peteryeungtt.github.io/codeplayer/))
+- [Live Demo Link](https://peteryeungtt.github.io/codeplayer/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
