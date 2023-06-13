@@ -19,7 +19,7 @@
 # 📖 [HMTL-CSS-JS CODEPLAYER] <a name="about-project"></a>
 
 
-**[HMTL-CSS-JS CODEPLAYER]** is a web-based Code player I have built to test HTML, CSS, and jQeury code without using ide or code editor software.
+**[HMTL-CSS-JS CODEPLAYER]** is a web-based Code player I have built to test HTML, CSS, and jQuery code without using ide or code editor software.
 
 ## 🛠 Built With <a name="built-with"></a>
 
